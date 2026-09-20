@@ -19,3 +19,6 @@ The prototype will add a recruitment value indicator that combines player perfor
 
 ## Prototype Evaluation
 The recruitment value indicator should be integrated into the main project because it strengthens the comparison of potential recruitment targets by combining performance, positional fit, and estimated value. Before full implementation, feedback from recruitment personnel, scouts, and sporting leadership would be needed to determine whether the indicator reflects PSG's actual recruitment priorities and whether the results are presented in a useful format for decision makers.
+
+## Reflection on Innovation and Version Control
+GitHub branches support low-risk experimentation by allowing analytics teams to test and refine new ideas without disrupting the main project. Version control also creates a transparent record of changes, evaluations, and decisions, helping decision makers understand how an analytics idea developed and why it may provide value. This workflow aligns with the Chapter 7 innovation framework by moving an idea from the creative phase through prototyping and engagement toward build and implementation, while allowing feedback and refinement before organizational adoption.
