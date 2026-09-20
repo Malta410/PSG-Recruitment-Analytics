@@ -16,3 +16,6 @@ The project currently represents the creative phase of the innovation framework 
 
 ## Prototype Enhancement
 The prototype will add a recruitment value indicator that combines player performance, positional fit, and estimated player value. This enhancement would allow decision makers to compare potential recruitment targets more efficiently and identify players who provide strong performance while also addressing PSG's squad needs and available transfer resources.
+
+## Prototype Evaluation
+The recruitment value indicator should be integrated into the main project because it strengthens the comparison of potential recruitment targets by combining performance, positional fit, and estimated value. Before full implementation, feedback from recruitment personnel, scouts, and sporting leadership would be needed to determine whether the indicator reflects PSG's actual recruitment priorities and whether the results are presented in a useful format for decision makers.
