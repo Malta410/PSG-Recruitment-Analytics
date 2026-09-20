@@ -13,3 +13,6 @@ Recruitment personnel, scouts, and sporting leadership could use the tool during
 
 ## Connection to Chapter 7
 The project currently represents the creative phase of the innovation framework because the analytical concept, decision problem, intended users, and proposed approach have been defined, but the decision-support tool has not yet been developed or tested. This establishes the foundation for subsequent prototyping and engagement with decision makers.
+
+## Prototype Evaluation
+The recruitment value indicator should be integrated into the main project because it strengthens the comparison of potential recruitment targets by combining performance, positional fit, and estimated value. Before full implementation, feedback from recruitment personnel, scouts, and sporting leadership would be needed to determine whether the indicator reflects PSG's actual recruitment priorities and whether the results are presented in a useful format for decision makers.
