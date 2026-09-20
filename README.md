@@ -13,3 +13,6 @@ Recruitment personnel, scouts, and sporting leadership could use the tool during
 
 ## Connection to Chapter 7
 The project currently represents the creative phase of the innovation framework because the analytical concept, decision problem, intended users, and proposed approach have been defined, but the decision-support tool has not yet been developed or tested. This establishes the foundation for subsequent prototyping and engagement with decision makers.
+
+## Prototype Enhancement
+The prototype will add a recruitment value indicator that combines player performance, positional fit, and estimated player value. This enhancement would allow decision makers to compare potential recruitment targets more efficiently and identify players who provide strong performance while also addressing PSG's squad needs and available transfer resources.
